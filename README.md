@@ -1,2 +1,2 @@
 # git_meeting
-I will really try to create a merge conflict
+I will kind of try to create a merge conflict
