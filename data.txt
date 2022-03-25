@@ -1,0 +1,3 @@
+shipment_seq,product
+1,bananas
+2,apples
